@@ -13,5 +13,9 @@ def main():
         break
 
 
+def add_book():
+    pass
+
+
 if __name__ == "__main__":
     main()
